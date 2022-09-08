@@ -20,7 +20,7 @@ if single_character == five_character_word[2]:
     print(single_character, "found at index 2")
 if single_character == five_character_word[3]:
     print(single_character, "found at index 3")
-if single_character== five_character_word[4]:
+if single_character == five_character_word[4]:
     print(single_character, "found at index 4")
 
 instances_of_character: int = five_character_word.count(single_character)
